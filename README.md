@@ -18,8 +18,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
-<hr>
-<h3 align="left"> -------- 🛠 Languages and tools 🛠 --------</h3>
+<h3 align="left"> -------------------------------- 🛠 Languages and tools 🛠 -----------------------------------</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
