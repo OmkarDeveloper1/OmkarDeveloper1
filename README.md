@@ -1,9 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Omkar Lahare</h1>
 <h3 align="center">A passionate Full stack & Python Developer from Nashik  Maharashatra</h3>
-###
 
-<p align="left">Full Stack Developer in designing, developing, and maintaining web applications for clients in the finance and ecommerce<br>sectors. expertise in web development and Python programming<br>- Proficient in Front-end technologies like ( HTML , CSS , JavaScript ) And backend languages (python , NodeJS ) With<br>expertise in Web Frameworks Like ( ReactJs , Django).<br>- Adept at database management using MySQL and PostgreSQL, MongoDB.<br>- Proven track record of optimizing web performance and improving user experience.<br>- Strong communicator and team player, committed to delivering high-quality solutions on time and within budget</p>
+   <p align="left">Full Stack Developer in designing, developing, and maintaining web applications for clients in the finance and ecommerce<br>sectors. expertise in web development and Python programming<br>- Proficient 
+   in Front-end technologies like ( HTML , CSS , JavaScript ) And backend languages (python , NodeJS ) With<br>expertise in Web Frameworks Like ( ReactJs , Django).<br>- Adept at database management using MySQL and 
+   PostgreSQL, MongoDB.<br>- Proven track record of optimizing web performance and improving user experience.<br>- Strong communicator and team player, committed to delivering high-quality solutions on time and within 
+   budget</p>
 
 ###
 
