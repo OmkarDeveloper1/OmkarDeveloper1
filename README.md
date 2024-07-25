@@ -86,7 +86,7 @@
 ###
 
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=omkardeveloper1&label=Profile%20views&color=0e75b6&style=flat" alt="omkardeveloper1" /> </p>
+<p align-item ="centre"> <img align-item = "centre" src="https://komarev.com/ghpvc/?username=omkardeveloper1&label=Profile%20views&color=0e75b6&style=flat" alt="omkardeveloper1" /> </p>
 
 
 
