@@ -111,8 +111,6 @@
 </p>
 
 
-https://www.buymeacoffee.com/Omkar
-
 
 
 
