@@ -102,7 +102,7 @@
 <div align="center">
    
 <h3 align="left">Support:</h3>
-<p><a align="left" href="https://www.buymeacoffee.com/Omkar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omkar" /></a></p><br><br>
+<p><a  href="https://www.buymeacoffee.com/Omkar"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omkar" /></a></p><br><br>
 </div>
 
 </p>
