@@ -18,12 +18,6 @@
 </div>
 
 
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/OmkarDeveloper1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OmkarDeveloper1" /></a></p><br><br>
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
