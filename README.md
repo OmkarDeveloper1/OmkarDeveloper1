@@ -101,8 +101,6 @@
    
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Omkar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omkar" /></a></p><br><br>
-
-<img align="left" height="200" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1721876779~exp=1721880379~hmac=f142ad2d7ac0adb711f9067bd65c981d032a7509866008c312f0a44da82a4022&w=740"  />
 </div>
 
 
