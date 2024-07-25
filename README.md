@@ -101,7 +101,7 @@
 <p align-item ="centre"> <img align-item = "centre" src="https://komarev.com/ghpvc/?username=omkardeveloper1&label=Profile%20views&color=0e75b6&style=flat" alt="omkardeveloper1" /> </p>
 <div align="center">
    
-<h3 align="left">Support:</h3>
+<h3 align="centre">Support:</h3>
 <p><a  href="https://www.buymeacoffee.com/Omkar"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omkar" /></a></p><br><br>
 </div>
 
