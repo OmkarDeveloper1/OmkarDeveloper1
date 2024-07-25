@@ -71,6 +71,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
 </div>
 
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkardeveloper1&label=Profile%20views&color=0e75b6&style=flat" alt="omkardeveloper1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkardeveloper1" alt="omkardeveloper1" /></a> </p>
+
 ###
 
 <div align="center">
@@ -81,12 +88,6 @@
 ###
 
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkardeveloper1&label=Profile%20views&color=0e75b6&style=flat" alt="omkardeveloper1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkardeveloper1" alt="omkardeveloper1" /></a> </p>
 
 - 📫 How to reach me **Omkar.lahare106@gmail.com**
 
