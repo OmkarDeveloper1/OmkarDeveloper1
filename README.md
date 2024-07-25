@@ -8,7 +8,7 @@
    budget</p>
 
 ###                               
-   📫 How to reach me **Omkar.lahare106@gmail.com**
+   📫 How to reach me **Omkar.lahare106@gmail.com**                             <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkardeveloper1&label=Profile%20views&color=0e75b6&style=flat" alt="omkardeveloper1" /> </p>
 <hr>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" margin=2px alt="whatsapp logo"  />
