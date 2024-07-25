@@ -105,7 +105,7 @@
 
 <div align="center">
 <h3 align="centre">Support:</h3>
-<p><a  href="Wa.me/+919307512181"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omkar" /></a></p><br><br>
+<p><a  href="https://wa.me/+919307512181"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omkar" /></a></p><br><br>
 </div>
 
 </p>
