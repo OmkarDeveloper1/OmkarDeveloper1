@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Omkar Lahare  and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! I am Omkar Lahare  and I'm a Full stack & Python Developer , from Nashik Maharashatra </h2>
 
 ###
 
