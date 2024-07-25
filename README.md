@@ -94,7 +94,8 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkardeveloper1&show_icons=true&locale=en" alt="omkardeveloper1" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkardeveloper1&" alt="omkardeveloper1" />
+<p><img align="left" height="200" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1721876779~exp=1721880379~hmac=f142ad2d7ac0adb711f9067bd65c981d032a7509866008c312f0a44da82a4022&w=740"  />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkardeveloper1&" alt="omkardeveloper1" />
 <img align="left" height="200" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1721876779~exp=1721880379~hmac=f142ad2d7ac0adb711f9067bd65c981d032a7509866008c312f0a44da82a4022&w=740"  />
 
 <p align-item ="centre"> <img align-item = "centre" src="https://komarev.com/ghpvc/?username=omkardeveloper1&label=Profile%20views&color=0e75b6&style=flat" alt="omkardeveloper1" /> </p>
