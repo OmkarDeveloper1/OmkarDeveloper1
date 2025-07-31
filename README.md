@@ -44,7 +44,27 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg
+## 💻 Tech Stack
+
+<table>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40"/><br>Hadoop</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/><br>Spark</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/><br>Python</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="40"/><br>Scala</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"/><br>MySQL</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40"/><br>Hive</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg" width="40"/><br>Pig</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40"/><br>Jupyter</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/><br>Kafka</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40"/><br>Linux</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/><br>AWS</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40"/><br>Tableau</td>
+  </tr>
+</table>
+
 
 
 <h3 align="left">🛠 Languages and Tools:</h3>
