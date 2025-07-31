@@ -56,12 +56,13 @@
 <!-- 🏆 Trophies -->
 
 
-### 🏆 GitHub Trophies)
 
+
+### 🏆 GitHub Trophies
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=gruvbox&no-bg=false&no-frame=false&margin-w=20&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=darkhub&margin-w=20&margin-h=15" />
 </p>
 
 
