@@ -31,6 +31,7 @@
 <br>
 <hr>
 
+<br>
 ### 💻 Tech Stack
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" title="Hadoop"/> &nbsp;&nbsp;
