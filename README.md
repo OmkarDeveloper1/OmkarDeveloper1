@@ -57,6 +57,7 @@
 <br>
 
 <h2 align="center">✨🏆 GitHub Trophies ✨</h2>
+<br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=darkhub&margin-w=20&margin-h=15" />
