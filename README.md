@@ -43,13 +43,12 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 ![Hive](https://img.shields.io/badge/Hive-FFC300?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.png" width="50" height="50" />
+
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
   <!-- your icon section remains unchanged -->
-  ... [Your existing icons stay here as-is, no change needed]
-</div>
-
 <br>
 
 <!-- 🏆 Trophies -->
