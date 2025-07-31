@@ -53,25 +53,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
 </p>
 
-
-
-
-
-
-<h3 align="left">🛠 Languages and Tools:</h3>
-<div align="left">
-  <!-- your icon section remains unchanged -->
-<br>
-
 <!-- 🏆 Trophies -->
 
 
-### 🏆 GitHub Trophies (Elegant Gold)
+### 🏆 GitHub Trophies)
 
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=radical&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=gruvbox&no-bg=false&no-frame=false&margin-w=20&margin-h=15" />
 </p>
+
 
 
 
