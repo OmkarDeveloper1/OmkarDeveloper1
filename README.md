@@ -63,6 +63,7 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/><br>Airflow</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hbase/apache_hbase-icon.svg" width="40"/><br>HBase</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br>Sqoop</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
   </tr>
 </table>
 
@@ -83,7 +84,6 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
     <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/><br>AWS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon-redshift/amazon-redshift-icon.svg" width="40"/><br>Redshift</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
