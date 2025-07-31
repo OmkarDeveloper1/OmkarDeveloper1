@@ -66,39 +66,35 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
   </tr>
 </table>
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
-### 🔄 Ingestion Tools
-<img src="https://cdn.worldvectorlogo.com/logos/sqoop.svg" alt="Sqoop" width="40"/> &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/apache-nifi.svg" alt="Apache NiFi" width="40"/>  
+<table>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_sqoop/apache_sqoop-icon.svg" width="40"/><br>Sqoop</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache-nifi/apache-nifi-icon.svg" width="40"/><br>Apache NiFi</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40"/><br>Hive</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/><br>Snowflake</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/><br>Spark</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/><br>Scala</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="40"/><br>Shell</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/><br>AWS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon-redshift/amazon-redshift-icon.svg" width="40"/><br>Redshift</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>CI/CD</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/><br>Airflow</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br>Jupyter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy</td>
+  </tr>
+</table>
 
-### 🏢 Data Warehousing
-<img src="https://cdn.worldvectorlogo.com/logos/apache-hive.svg" alt="Hive" width="40"/> &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/snowflake-1.svg" alt="Snowflake" width="40"/>  
-
-### ⚙️ ETL & Processing
-<img src="https://cdn.worldvectorlogo.com/logos/apache-spark.svg" alt="Apache Spark" width="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="40"/>  
-
-### 💻 Programming
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="40"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Shell" width="40"/>  
-
-### ☁️ Cloud Platforms (AWS)
-<img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS" width="40"/> &nbsp;
-(S3, Glue, EMR, Redshift)  
-
-### 🗃️ Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/> &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/amazon-redshift-logo.svg" alt="Redshift" width="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>  
-
-### 🔧 DevOps & Workflow Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/> &nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/2882/2882875.png" alt="Cron" width="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="CI/CD" width="40"/> &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/apache-airflow.svg" alt="Airflow" width="40"/>
 
 
 
