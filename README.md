@@ -48,10 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="40" title="Shell"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/> &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Power_BI_logo.svg" width="40" title="Power BI"/> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" title="Keras"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" title="Airflow"/> &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4e/Apache_HBase_logo.svg" width="40" title="HBase"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
 </p>
 
