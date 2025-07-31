@@ -30,7 +30,7 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 <br>
 <div align="centre">
 <a href="https://www.Omkar.lahare106@gmail.com">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>----------------------
-  <a href="https://wa.me/+919307512181"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" margin=2px alt="whatsapp logo"/></a>----------------------
+  <a href="https://wa.me/+919307512181"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" margin=2px alt="whatsapp logo"/></a>-------------------------
  <a href=https://t.me/Kyros106><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" https://web.telegram.org/a/></a>-------------------
 <a href="https://www.linkedin.com/in/omkar-Lahare">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
@@ -65,6 +65,40 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br>Sqoop</td>
   </tr>
 </table>
+
+## 🚀 Tech Stack
+
+### 🔄 Ingestion Tools
+<img src="https://cdn.worldvectorlogo.com/logos/sqoop.svg" alt="Sqoop" width="40"/> &nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/apache-nifi.svg" alt="Apache NiFi" width="40"/>  
+
+### 🏢 Data Warehousing
+<img src="https://cdn.worldvectorlogo.com/logos/apache-hive.svg" alt="Hive" width="40"/> &nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/snowflake-1.svg" alt="Snowflake" width="40"/>  
+
+### ⚙️ ETL & Processing
+<img src="https://cdn.worldvectorlogo.com/logos/apache-spark.svg" alt="Apache Spark" width="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="40"/>  
+
+### 💻 Programming
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="40"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Shell" width="40"/>  
+
+### ☁️ Cloud Platforms (AWS)
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS" width="40"/> &nbsp;
+(S3, Glue, EMR, Redshift)  
+
+### 🗃️ Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/> &nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-redshift-logo.svg" alt="Redshift" width="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>  
+
+### 🔧 DevOps & Workflow Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/> &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/2882/2882875.png" alt="Cron" width="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="CI/CD" width="40"/> &nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/apache-airflow.svg" alt="Airflow" width="40"/>
 
 
 
