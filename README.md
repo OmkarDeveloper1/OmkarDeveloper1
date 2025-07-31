@@ -39,7 +39,7 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 
 ## 💻 Tech Stack
 
-<table>
+<table aligh='center' >
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40"/><br>Hadoop</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/><br>Spark</td>
