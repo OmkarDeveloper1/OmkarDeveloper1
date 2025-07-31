@@ -67,6 +67,32 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 
 
 
+## 🛠️ Tech Stack Logos
+
+| Technology   | SVG Logo | PNG Logo |
+|--------------|:--------:|:--------:|
+| Hadoop       | <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="50"/> | [PNG](https://commons.wikimedia.org/wiki/File:Apache_Hadoop.png) |
+| Spark        | <img src="https://commons.wikimedia.org/wiki/File:Apache_Spark_logo.svg" width="50"/> | — |
+| Hive         | <img src="https://commons.wikimedia.org/wiki/File:Apache_Hive_logo.svg" width="50"/> | — |
+| Sqoop        | <img src="https://en.wikipedia.org/wiki/File:Apache_Sqoop_logo.svg" width="50"/> | — |
+| Python       | <img src="https://commons.wikimedia.org/wiki/File:Python_logo_and_wordmark.svg" width="50"/> | — |
+| Scala        | <img src="https://commons.wikimedia.org/wiki/File:Scala-full-color.svg" width="50"/> | — |
+| MySQL        | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50"/> | — |
+| Linux        | <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50"/> | — |
+| Git          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/> | — |
+| AWS          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/> | — |
+| Jupyter      | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"/> | — |
+| Pandas       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/> | — |
+| NumPy        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/> | — |
+| Power BI     | *(not found official SVG)* | [PNG](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg) |
+| Tableau      | <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/> | — |
+| Keras        | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50"/> | — |
+| HBase        | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/HBase_logo.svg" width="50"/> | — |
+| Airflow      | <img src="https://raw.githubusercontent.com/apache/airflow-site/main/images/logos/apache-airflow/horizontal/en/airflow_horizontal_color.svg" width="50"/> | — |
+
+
+
+
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
   <!-- your icon section remains unchanged -->
