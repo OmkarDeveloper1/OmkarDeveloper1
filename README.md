@@ -58,11 +58,14 @@
 
 
 
-### 🏆 GitHub Trophies
-### 🏆 GitHub Trophies
+<h2 align="center">✨🏆 GitHub Trophies ✨</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=darkhub&margin-w=20&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=discord&no-frame=false&no-bg=false&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&margin-w=20&margin-h=15&rank=SSS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Trophies-Sparkling%20Achievements-FFD700?style=for-the-badge&logo=stars&logoColor=white&color=FFD700">
 </p>
 
 
