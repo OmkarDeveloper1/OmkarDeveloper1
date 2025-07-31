@@ -36,15 +36,8 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 </div>
 <br>
 <hr>
-
-💻 Tech Stack
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-FD6F00?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFC300?style=for-the-badge&logo=apachehive&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
 ## 💻 Tech Stack
+
 
 <table>
   <tr>
@@ -56,40 +49,22 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
     <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40"/><br>Hive</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg" width="40"/><br>Pig</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40"/><br>Jupyter</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/><br>Kafka</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40"/><br>Linux</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/><br>AWS</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40"/><br>Jupyter</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" width="40"/><br>Pandas</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40"/><br>NumPy</td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40"/><br>Tableau</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" width="40"/><br>Power BI</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/kerasio/kerasio-icon.svg" width="40"/><br>Keras</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40"/><br>Airflow</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hbase/apache_hbase-icon.svg" width="40"/><br>HBase</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/sqoop/sqoop.png" width="40"/><br>Sqoop</td>
   </tr>
 </table>
-
-
-
-## 🛠️ Tech Stack Logos
-
-| Technology   | SVG Logo | PNG Logo |
-|--------------|:--------:|:--------:|
-| Hadoop       | <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="50"/> | [PNG](https://commons.wikimedia.org/wiki/File:Apache_Hadoop.png) |
-| Spark        | <img src="https://commons.wikimedia.org/wiki/File:Apache_Spark_logo.svg" width="50"/> | — |
-| Hive         | <img src="https://commons.wikimedia.org/wiki/File:Apache_Hive_logo.svg" width="50"/> | — |
-| Sqoop        | <img src="https://en.wikipedia.org/wiki/File:Apache_Sqoop_logo.svg" width="50"/> | — |
-| Python       | <img src="https://commons.wikimedia.org/wiki/File:Python_logo_and_wordmark.svg" width="50"/> | — |
-| Scala        | <img src="https://commons.wikimedia.org/wiki/File:Scala-full-color.svg" width="50"/> | — |
-| MySQL        | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50"/> | — |
-| Linux        | <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50"/> | — |
-| Git          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/> | — |
-| AWS          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/> | — |
-| Jupyter      | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"/> | — |
-| Pandas       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/> | — |
-| NumPy        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/> | — |
-| Power BI     | *(not found official SVG)* | [PNG](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg) |
-| Tableau      | <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/> | — |
-| Keras        | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50"/> | — |
-| HBase        | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/HBase_logo.svg" width="50"/> | — |
-| Airflow      | <img src="https://raw.githubusercontent.com/apache/airflow-site/main/images/logos/apache-airflow/horizontal/en/airflow_horizontal_color.svg" width="50"/> | — |
-
 
 
 
