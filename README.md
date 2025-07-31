@@ -64,11 +64,14 @@
 <br>
 
 <!-- 🏆 Trophies -->
-### 🏆 GitHub Trophies
+
+
+### 🏆 GitHub Trophies (Elegant Gold)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=onedark&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&no-bg=true&no-frame=true&column=3&margin-w=20&margin-h=20&rank=SSS"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=algolia&no-frame=true&column=4&rank=SSS&margin-w=20&margin-h=15" />
 </p>
+
 
 
 <!-- 📊 GitHub Stats -->
