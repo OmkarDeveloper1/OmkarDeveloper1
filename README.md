@@ -106,7 +106,7 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 
 <!-- ☕ Support -->
 <div align="center">
-  <h3>Support:</h3>
+
   <a href="https://wa.me/+919307512181">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omkar" />
   </a>
