@@ -1,24 +1,18 @@
 <h1 align="center">Hi 👋, I'm Omkar Lahare</h1>
 <h3 align="center">A passionate Data Engineer & Big Data Developer from Nashik , Maharashatra</h3>
 
-   <p align="left">🚀 Passionate and results-driven Big Data Engineer with deep expertise in building scalable, distributed data processing systems across diverse industries. I bring a strong foundation in Hadoop internals, data ingestion, distributed processing, and cloud-native architectures, enabling organizations to turn raw data into actionable insights.
+💫 About Me
+<p align="left">🚀 Passionate and results-driven Big Data Engineer with deep expertise in building scalable, distributed data processing systems across diverse industries. I bring a strong foundation in Hadoop internals, data ingestion, distributed processing, and cloud-native architectures, enabling organizations to turn raw data into actionable insights.
 
 🔧 Core Expertise:
-Big Data Ecosystem: HDFS, YARN, MapReduce
-
-Ingestion Tools: Sqoop, Apache NiFi
-
-Data Warehousing: Apache Hive, Snowflake
-
-ETL & Processing: Apache Spark (Scala), Spark SQL, DataFrames, Datasets
-
-Programming: Scala, Python, Shell Scripting
-
-Cloud Platforms: AWS (S3, Glue, EMR, Redshift)
-
-Databases: MySQL, Redshift , MongoDB
-
-DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
+- Big Data Ecosystem: HDFS, YARN, MapReduce
+- Ingestion Tools: Sqoop, Apache NiFi
+- Data Warehousing: Hive, Snowflake
+- Processing: Apache Spark (Scala), Spark SQL, DataFrames, Datasets
+- Programming: Scala, Python, Shell Scripting
+- Cloud: AWS (S3, Glue, EMR, Redshift)
+- Databases: MySQL, MongoDB, Redshift
+- DevOps Basics: Linux, Cron, CI/CD, Airflow
 
 📈 I’ve successfully designed and implemented end-to-end data pipelines, enabling efficient data movement, transformation, and aggregation at scale. Whether ingesting millions of rows via Sqoop, orchestrating flows with NiFi, or processing terabytes of data in Spark, I take pride in crafting solutions that are not only performant but also production-ready.
 
