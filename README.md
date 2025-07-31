@@ -129,6 +129,16 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 
 </p>
 
+### Hi there 👋
+
+I'm a passionate Big Data Engineer skilled in Hadoop, Hive, Spark, and more.
+
+![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmkarDeveloper1&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarDeveloper1&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmkarDeveloper1&theme=dark)
+![](https://komarev.com/ghpvc/?username=OmkarDeveloper1&color=green)
+
+
 
 <!-- Snake Animation -->
 <div align="center">
