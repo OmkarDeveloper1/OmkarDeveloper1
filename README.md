@@ -37,8 +37,7 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 <br>
 <hr>
 
-## 💻 Tech Stack
-
+💻 Tech Stack
 <table aligh='center' >
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40"/><br>Hadoop</td>
@@ -80,9 +79,7 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 <br>
 
 <!-- 🏆 Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=dracula&margin-w=15&margin-h=15" alt="omkardeveloper1" /></a>
-</p>
+
 
 <!-- 📊 GitHub Stats -->
 <div align="center">
