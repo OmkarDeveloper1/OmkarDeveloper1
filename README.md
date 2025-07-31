@@ -79,7 +79,9 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 <br>
 
 <!-- 🏆 Trophies -->
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=dracula&margin-w=15&margin-h=15" alt="omkardeveloper1" /></a>
+</p>
 
 <!-- 📊 GitHub Stats -->
 <div align="center">
