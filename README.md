@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Omkar Lahare</h1>
-<h3 align="center">A passionate Full stack & Python Developer from Nashik , Maharashatra</h3>
+<h3 align="center">A passionate Data Engineer & Big Data Developer from Nashik , Maharashatra</h3>
 
    <p align="left">🚀 Passionate and results-driven Big Data Engineer with deep expertise in building scalable, distributed data processing systems across diverse industries. I bring a strong foundation in Hadoop internals, data ingestion, distributed processing, and cloud-native architectures, enabling organizations to turn raw data into actionable insights.
 
