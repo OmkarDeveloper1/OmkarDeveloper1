@@ -90,10 +90,9 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/Pyspark-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/Scala/2496ED" height="40" alt="Hadoop"  />
-  <img src="https://cdn.simpleicons.org/Pyspark/2496ED" height="40" alt="Hadoop"  />
 </div>
 
 ###
