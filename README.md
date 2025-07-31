@@ -17,13 +17,13 @@ Programming: Scala, Python, Shell Scripting
 
 Cloud Platforms: AWS (S3, Glue, EMR, Redshift)
 
-Databases: MySQL, Redshift
+Databases: MySQL, Redshift , MongoDB
 
-DevOps Basics: Linux, Cron, CI/CD workflows
+DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 
 📈 I’ve successfully designed and implemented end-to-end data pipelines, enabling efficient data movement, transformation, and aggregation at scale. Whether ingesting millions of rows via Sqoop, orchestrating flows with NiFi, or processing terabytes of data in Spark, I take pride in crafting solutions that are not only performant but also production-ready.
 
-💡 My hands-on approach to troubleshooting, optimization, and design allows me to handle complex engineering problems with speed and precision. I enjoy collaborating on projects that demand a deep understanding of both the data and the architecture that supports it.🚀 Passionate and results-driven Big Data Engineer with deep expertise in building scalable, distributed data processing systems across diverse industries. I bring a strong foundation in Hadoop internals, data ingestion, distributed processing, and cloud-native architectures, enabling organizations to turn raw data into actionable insights. 🔧 Core Expertise: Big Data Ecosystem: HDFS, YARN, MapReduce Ingestion Tools: Sqoop, Apache NiFi Data Warehousing: Apache Hive, Snowflake ETL & Processing: Apache Spark (Scala), Spark SQL, DataFrames, Datasets Programming: Scala, Python, Shell Scripting Cloud Platforms: AWS (S3, Glue, EMR, Redshift) Databases: MySQL, Redshift DevOps Basics: Linux, Cron, CI/CD workflows 📈 I’ve successfully designed and implemented end-to-end data pipelines, enabling efficient data movement, transformation, and aggregation at scale. Whether ingesting millions of rows via Sqoop, orchestrating flows with NiFi, or processing terabytes of data in Spark, I take pride in crafting solutions that are not only performant but also production-ready. 💡 My hands-on approach to troubleshooting, optimization, and design allows me to handle complex engineering problems with speed and precision. I enjoy collaborating on projects that demand a deep understanding of both the data and the architecture that supports it.
+💡 My hands-on approach to troubleshooting, optimization, and design allows me to handle complex engineering problems with speed and precision. I enjoy collaborating on projects that demand a deep understanding of both the data and the architecture that supports it.
 </p>
 
 ###                               
