@@ -33,25 +33,25 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" title="Hadoop"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" title="Spark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" title="Scala"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40" title="Hive"/>
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" title="Snowflake"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="40" title="Shell"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Power_BI_logo.svg" width="40" title="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" title="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" title="Airflow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4e/Apache_HBase_logo.svg" width="40" title="HBase"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" title="Hadoop"/> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" title="Spark"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" title="Scala"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40" title="Hive"/> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" title="Snowflake"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="40" title="Shell"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Power_BI_logo.svg" width="40" title="Power BI"/> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" title="Keras"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" title="Airflow"/> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4e/Apache_HBase_logo.svg" width="40" title="HBase"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
 </p>
 
