@@ -37,7 +37,12 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 <br>
 <hr>
 
-<hr>
+💻 Tech Stack
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-FD6F00?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC300?style=for-the-badge&logo=apachehive&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
