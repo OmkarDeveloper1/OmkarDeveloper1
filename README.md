@@ -1,28 +1,41 @@
 <h1 align="center">Hi 👋, I'm Omkar Lahare</h1>
-<h3 align="center">A passionate Data Engineer & Big Data Developer from Nashik, Maharashtra</h3>
+<h3 align="center">A passionate Data Engineer & Big Data Developer from Nashik , Maharashatra</h3>
 
-<p align="left">
-🚀 Passionate and results-driven Big Data Engineer with deep expertise in building scalable, distributed data processing systems. Strong foundation in Hadoop internals, data ingestion, processing, and cloud-native architectures.
+   <p align="left">🚀 Passionate and results-driven Big Data Engineer with deep expertise in building scalable, distributed data processing systems across diverse industries. I bring a strong foundation in Hadoop internals, data ingestion, distributed processing, and cloud-native architectures, enabling organizations to turn raw data into actionable insights.
 
-🔧 <b>Core Expertise:</b><br>
-Big Data: HDFS, YARN, MapReduce<br>
-Ingestion: Sqoop, Apache NiFi<br>
-Warehousing: Hive, Snowflake<br>
-ETL/Processing: Apache Spark (Scala), Spark SQL, DataFrames<br>
-Languages: Scala, Python, Shell Scripting<br>
-Cloud: AWS (S3, Glue, EMR, Redshift)<br>
-Databases: MySQL, Redshift, MongoDB<br>
-DevOps: Linux, Cron, CI/CD, Airflow
+🔧 Core Expertise:
+Big Data Ecosystem: HDFS, YARN, MapReduce
+
+Ingestion Tools: Sqoop, Apache NiFi
+
+Data Warehousing: Apache Hive, Snowflake
+
+ETL & Processing: Apache Spark (Scala), Spark SQL, DataFrames, Datasets
+
+Programming: Scala, Python, Shell Scripting
+
+Cloud Platforms: AWS (S3, Glue, EMR, Redshift)
+
+Databases: MySQL, Redshift , MongoDB
+
+DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
+
+📈 I’ve successfully designed and implemented end-to-end data pipelines, enabling efficient data movement, transformation, and aggregation at scale. Whether ingesting millions of rows via Sqoop, orchestrating flows with NiFi, or processing terabytes of data in Spark, I take pride in crafting solutions that are not only performant but also production-ready.
+
+💡 My hands-on approach to troubleshooting, optimization, and design allows me to handle complex engineering problems with speed and precision. I enjoy collaborating on projects that demand a deep understanding of both the data and the architecture that supports it.
 </p>
 
-### 📫 Reach me: **Omkar.lahare106@gmail.com**
-
-<div align="center">
-  <a href="mailto:Omkar.lahare106@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
-  <a href="https://wa.me/+919307512181"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
-  <a href="https://t.me/Kyros106"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
-  <a href="https://www.linkedin.com/in/omkar-lahare"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
+###                               
+--------------------------------------------   📫 How to reach me Omkar.lahare106@gmail.com     -------------------------------------------------                     
+<br>
+<div align="centre">
+<a href="https://www.Omkar.lahare106@gmail.com">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>----------------------
+  <a href="https://wa.me/+919307512181"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" margin=2px alt="whatsapp logo"/></a>----------------------
+ <a href=https://t.me/Kyros106><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" https://web.telegram.org/a/></a>-------------------
+<a href="https://www.linkedin.com/in/omkar-Lahare">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
+<br>
+<hr>
 
 <hr>
 
