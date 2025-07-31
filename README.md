@@ -63,7 +63,7 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Power_BI_logo.svg" width="40"/><br>Power BI</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/><br>Keras</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/><br>Airflow</td>
-   <img src="https://upload.wikimedia.org/wikipedia/en/4/4e/Apache_HBase_logo.svg" alt="HBase" width="50"/>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/4/4e/Apache_HBase_logo.svg" alt="HBase" width="50"/><br>Hbase</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br>Sqoop</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
   </tr>
