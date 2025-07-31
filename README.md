@@ -64,9 +64,12 @@
 <br>
 
 <!-- 🏆 Trophies -->
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=dracula&margin-w=15&margin-h=15" alt="omkardeveloper1" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=onedark&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&no-bg=true&no-frame=true&column=3&margin-w=20&margin-h=20&rank=SSS"/>
 </p>
+
 
 <!-- 📊 GitHub Stats -->
 <div align="center">
