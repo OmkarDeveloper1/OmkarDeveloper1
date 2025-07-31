@@ -68,8 +68,9 @@
 
 ### 🏆 GitHub Trophies (Elegant Gold)
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=algolia&no-frame=true&column=4&rank=SSS&margin-w=20&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=radical&margin-w=15&margin-h=15"/>
 </p>
 
 
