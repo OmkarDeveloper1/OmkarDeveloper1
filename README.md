@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Lahare</h1>
 <h3 align="center">A passionate Data Engineer & Big Data Developer from Nashik , Maharashatra</h3>
 
-💫 About Me
 <p align="left">🚀 Passionate and results-driven Big Data Engineer with deep expertise in building scalable, distributed data processing systems across diverse industries. I bring a strong foundation in Hadoop internals, data ingestion, distributed processing, and cloud-native architectures, enabling organizations to turn raw data into actionable insights.
 
 🔧 Core Expertise:
@@ -59,10 +58,10 @@
 <h2 align="center">✨🏆 GitHub Trophies ✨</h2>
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=darkhub&margin-w=20&margin-h=15" />
-</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarDeveloper1&theme=algolia&no-frame=true&column=4&rank=SSS&margin-w=20&margin-h=15" />
+</p>
 
 
 
