@@ -36,33 +36,33 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 </div>
 <br>
 <hr>
-## 💻 Tech Stack
 
+## 💻 Tech Stack
 
 <table>
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40"/><br>Hadoop</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/><br>Spark</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/><br>Python</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="40"/><br>Scala</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/><br>Scala</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40"/><br>Hive</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40"/><br>Linux</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/><br>AWS</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40"/><br>Jupyter</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" width="40"/><br>Pandas</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40"/><br>NumPy</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br>Jupyter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy</td>
   </tr>
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40"/><br>Tableau</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" width="40"/><br>Power BI</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/kerasio/kerasio-icon.svg" width="40"/><br>Keras</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40"/><br>Airflow</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Power_BI_logo.svg" width="40"/><br>Power BI</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/><br>Keras</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/><br>Airflow</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hbase/apache_hbase-icon.svg" width="40"/><br>HBase</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/sqoop/sqoop.png" width="40"/><br>Sqoop</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br>Sqoop</td>
   </tr>
 </table>
 
