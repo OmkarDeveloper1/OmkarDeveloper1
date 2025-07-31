@@ -47,6 +47,7 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/><br>Scala</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40"/><br>Hive</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/><br>Snowflake</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
@@ -55,9 +56,10 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br>Jupyter</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="40"/><br>Shell</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40"/><br>Tableau</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>CI/CD</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Power_BI_logo.svg" width="40"/><br>Power BI</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/><br>Keras</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/><br>Airflow</td>
@@ -68,32 +70,6 @@ DevOps Basics: Linux, Cron, CI/CD workflows , Airflow
 </table>
 
 ## 💻 Tech Stack
-
-<table>
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_sqoop/apache_sqoop-icon.svg" width="40"/><br>Sqoop</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache-nifi/apache-nifi-icon.svg" width="40"/><br>Apache NiFi</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40"/><br>Hive</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/><br>Snowflake</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/><br>Spark</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/><br>Scala</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="40"/><br>Shell</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/><br>AWS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon-redshift/amazon-redshift-icon.svg" width="40"/><br>Redshift</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>CI/CD</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/><br>Airflow</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br>Jupyter</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy</td>
-  </tr>
-</table>
 
 
 
