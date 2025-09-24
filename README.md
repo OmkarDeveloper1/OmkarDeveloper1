@@ -64,9 +64,6 @@
 </p>
 
 
-
-
-
 <!-- 📊 GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmkarDeveloper1&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" />
@@ -79,17 +76,13 @@
 </div>
 
 <!-- 📸 Profile views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmkarDeveloper1&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 
 
 
 <!-- ☕ Support -->
 <div align="center">
   <a href="https://wa.me/+919307512181">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omkar" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omkar"/>
   </a>
 </div>
 
