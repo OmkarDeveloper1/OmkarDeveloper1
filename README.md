@@ -84,14 +84,10 @@
 </p>
 
 
-<!-- 👣 Visit Counter -->
-<div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=OmkarDeveloper1&label=Profile%20Views&color=6&icon=5&pretty=false" /></a>
-</div>
+
 
 <!-- ☕ Support -->
 <div align="center">
-
   <a href="https://wa.me/+919307512181">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omkar" />
   </a>
@@ -106,6 +102,4 @@
 </div>
 
 
-
-<!-- Visit Counter -->
 
