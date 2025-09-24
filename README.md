@@ -77,7 +77,7 @@
 
 <!-- 📸 Profile views -->
 
-</hr>
+<br>
 
 <!-- ☕ Support -->
 <div align="center">
